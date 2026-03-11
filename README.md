@@ -1,4 +1,7 @@
 # Kingdom Rush Battles - Full Security & Reverse Engineering Report
+<p align="center">
+  <img src="./KRB.png" alt="Kingdom Rush Battles - Exposed" width="780"/>
+</p>
 
 **Author:** LogicBr3ak3r
 **Contact:** Telegram - [@LogicBr3ak3r](https://t.me/LogicBr3ak3r)
